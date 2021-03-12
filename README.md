@@ -1,6 +1,6 @@
-# React: useEffect Notes
+# React: useEffect & useRef Notes
 
-Practice understanding useEffect and best practices.
+Practice understanding useEffect and useRef and best practices.
 
 
 ### `npm start`

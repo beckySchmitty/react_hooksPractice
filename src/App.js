@@ -1,12 +1,12 @@
 import './App.css';
-import Timer from "./Timer"
+import TimerWrapper from "./TimerWrapper"
 import ProfileViewer from "./ProfileViewer"
 
 function App() {
   return (
     <div className="App">
       <ProfileViewer name="beckyschmitty" />
-      <Timer />
+      <TimerWrapper />
     </div>
   );
 }
